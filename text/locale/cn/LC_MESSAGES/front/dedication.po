@@ -15,7 +15,7 @@ msgstr ""
 msgid "Dedication"
 msgstr ""
 
-#: ../../source/front/dedication.rst:11
+#: ../../source/front/dedication.rst:22
 msgid ""
 "This book started as a Kickstarter project. The idea of writing a book and "
 "making it freely available, under a Creative Commons license, was largely "
@@ -36,8 +36,7 @@ msgstr ""
 "创作公共授权书籍的旅程可以开展。如果情况发生变化，本书将可能献给Cory Doctorow"
 "和Lawrence Lessig，感谢他们激励我从事这个项目。"
 
-
-#: ../../source/front/dedication.rst:23
+#: ../../source/front/dedication.rst:34
 msgid ""
 "But this book isn't dedicated to them. Instead, it is dedicated to **Aaron "
 "Swartz**. Aaron was without a doubt a wunderkind. At the age of 14, Aaron "
@@ -55,7 +54,7 @@ msgstr ""
 "并且无私，他非常关心技术和人类的未来。他具有无数我所钦佩和向往的品质。可是在"
 "2013年1月11日，Aaron Swartz结束了自己的生命。"
 
-#: ../../source/front/dedication.rst:34
+#: ../../source/front/dedication.rst:45
 msgid ""
 "Barely a month after the successful funding of my Kickstarter project, Aaron"
 " Swartz was dead at the age of 26. It is astounding what Aaron managed to "
@@ -73,7 +72,7 @@ msgstr ""
 "写作本书，最终是为了让本书的读者了解他在RSS,知识共享和互联网领域的成就。令人心碎的是，"
 "我刚开始这个项目，他就去世了。我决定将这本书献给他。"
 
-#: ../../source/front/dedication.rst:45
+#: ../../source/front/dedication.rst:56
 msgid ""
 "Because `his life has been chronicled <http://boingboing.net/2013/01/12/rip-"
 "aaron-swartz.html>`_ by `better writers who actually knew him "
@@ -91,7 +90,7 @@ msgstr ""
 "那些决定把他作为案例以儆效尤的联邦检查人员（和Carmen Ortiz 3）对待他的方式感"
 "到非常愤怒。"
 
-#: ../../source/front/dedication.rst:54
+#: ../../source/front/dedication.rst:65
 msgid ""
 "This book is dedicated to Aaron Swartz in an attempt to keep his memory and,"
 " more importantly, the things he stood for alive. Over a year has past "
@@ -109,7 +108,7 @@ msgstr ""
 "们应受到引导和辅导，如何用他充沛的精力和才能帮助社会。"
 
 
-#: ../../source/front/dedication.rst:64
+#: ../../source/front/dedication.rst:75
 msgid ""
 "\"Aaron dead. World wanderers, we have lost a wise elder. Hackers for right,"
 " we are one down. Parents all, we have lost a child. Let us weep.\""
@@ -117,7 +116,7 @@ msgstr ""
 "Aaron走了。全世界的流浪者们，我们失去了一位智者。所有为真理抗争的黑客们，我们中的一员倒下了。
 所有的父母们，我们失去了一个孩子。让我们为他哭泣。"
 
-#: ../../source/front/dedication.rst:73
+#: ../../source/front/dedication.rst:84
 msgid ""
 "`Tim Berners-Lee "
 "<https://twitter.com/timberners_lee/status/290140454211698689>`_"
